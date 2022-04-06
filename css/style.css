@@ -2509,7 +2509,7 @@ iframe {
 	transition: 0.3s;
   }
   .global ul a:hover{
-	text-shadow: 0 10 10px #753232, 10 0 15px #f10000;
+	text-shadow: 0 0 10px #753232, 0 0 15px #f10000;
 	  font-size: 16px;
 	opacity: 0.8;
 	color: #eee;
